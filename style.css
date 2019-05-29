@@ -1,0 +1,61 @@
+            body {
+                background-image: url(notebook-writing-wood-notepad-pattern-material-950722-pxhere.com.jpg);
+                background-repeat: no-repeat;
+                background-size: cover;
+                text-align: center;
+            }
+            
+            form {
+                width: 100%;
+                justify-content: center;
+            }
+            
+            #formtemplate {
+                display: inline-block;
+                justify-content: center;
+                width: 55%;
+                background-color: dimgray;
+                height: 65%;
+                padding: 45px;
+            }
+            
+            .formchild {
+                width: 100%;
+                display: block;
+                justify-content: center;
+                padding: 25px;
+                height: 30px;
+                border-radius: 25px;
+            }
+            
+            #add {
+                text-align: center;
+            }
+            
+            .contact-list {
+                display: block;
+                align-items: center;
+                color: black;
+                text-align: center;
+                list-style-type: none;
+                background-color: #CDCECD;
+                margin: 5px;
+                padding: 0px;
+                border-radius: 25px;
+            }
+            
+            li {
+                display: block;
+                align-items: center;
+                padding: 5px;
+            }
+            
+            body {
+                display: flex;
+                flex-wrap: wrap;
+                font-family: Arial, Helvetica, sans-serif;
+            }
+            
+            #wrap {
+                width: 100%;
+            }
